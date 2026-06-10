@@ -120,7 +120,7 @@ mvn spring-boot:run
 
 ## Author
 
-**Rohan Bhapkar**\
+**Janhvi Khalatkar**\
 For any queries, feel free to contact me!
 
 ---
